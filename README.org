@@ -1,0 +1,6 @@
+#+AUTHOR: Kebairia Zakaria
+#+DESCRIPTION: a Library for mathematical algorithms 
+* ALGORITHMS:
+** TODO DICOTOMIE
+** TODO NEWTON
+** TODO POINT FIXE
